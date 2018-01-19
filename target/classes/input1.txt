@@ -1,0 +1,192 @@
+{
+    "header": {
+        "ver": "v4",
+        "msgDtm": 1516275334000,
+        "msgId": "12291358410"
+    },
+    "item": [
+        {
+            "content": {
+                "contentId": 2522147822,
+                "title": "US Stove AGDV12L Ashley Direct Vent 11,000 BTU Propane Gas Heater",
+                "mktgDesc": "Test desc for 7820827922",
+                "seo": {
+                    "metaDesc": "Natural gas heater safe to use anywhere, including in bathrooms and bedrooms, Cabinet remains cool to the touch, with heat outlets in front and on top, Inc"
+                },
+                "modelNumber": "AGDV12L",
+                "brand": {
+                    "id": "22934010",
+                    "name": "US STOVE COMPANY"
+                },
+                "site": [
+                    {
+                        "taxo": {
+                            "hier": [
+                                {
+                                    "id": "17631810",
+                                    "primary": true
+                                }
+                            ]
+                        },
+                        "id": "1"
+                    },
+                    {
+                        "taxo": {
+                            "hier": [
+                                {
+                                    "id": "17615510",
+                                    "primary": true
+                                }
+                            ]
+                        },
+                        "id": "2"
+                    },
+                    {
+                        "taxo": {
+                            "hier": [
+                                {
+                                    "id": "11786",
+                                    "primary": true
+                                }
+                            ]
+                        },
+                        "id": "4"
+                    },
+                    {
+                        "taxo": {
+                            "hier": [
+                                {
+                                    "id": "15830601",
+                                    "primary": true
+                                }
+                            ]
+                        },
+                        "id": "11"
+                    },
+                    {
+                        "taxo": {
+                            "hier": [
+                                {
+                                    "id": "22347010",
+                                    "primary": true
+                                }
+                            ]
+                        },
+                        "id": "13"
+                    }
+                ],
+                "commissionRates": {
+                    "commissionRate": [
+                        {
+                            "rateVal": "0.15",
+                            "siteId": 1
+                        },
+                        {
+                            "rateVal": "0.15",
+                            "siteId": 2
+                        },
+                        {
+                            "rateVal": "0.15",
+                            "siteId": 4
+                        },
+                        {
+                            "rateVal": "0.15",
+                            "siteId": 9
+                        }
+                    ]
+                },
+                "ownerId": 7483,
+                "itemClassId": 4649,
+                "programType": "FBM",
+                "isMatureContent": false,
+                "offerCount": 7,
+                "aggrLegalData": {
+                    "isMatureContent": false,
+                    "isCAEmmission": false
+                },
+                "isExcludeUpcValidation": false
+            },
+            "offer": [
+                {
+                    "itemId": 7820827922,
+                    "contentId": 2522147822,
+                    "ssin": "MCR1693154612",
+                    "guid": "daeb0fc6-8d0f-4ddc-a1f5-5734c05b2e79",
+                    "programType": "FBM",
+                    "sellerProductId": "123-USC-AGDV12L",
+                    "sellerId": 7483,
+                    "itemClassId": 4649,
+                    "sellerItemClass": 4649,
+                    "upc": "012685701202",
+                    "modelNumber": "AGDV12L",
+                    "productImage": {
+                        "id": "5713148422",
+                        "url": "http://i.sears.com/s/pi/mp/7483/prod_5713148422?src=http%3A%2F%2Flghttp.18956.nexcesscdn.net%2F8092A8%2FNewlive%2Fmedia%2Fcatalog%2Fproduct%2FA%2FG%2FAGDV12L.jpg&d=6adac3cf643740fa021459de2ab503d67701d593",
+                        "isExternal": false
+                    },
+                    "sywRedEligible": false,
+                    "itemDimensions": {
+                        "height": 10,
+                        "length": 10,
+                        "width": 10,
+                        "weight": 10
+                    },
+                    "geoLimits": {
+                        "states": "HI,AK"
+                    },
+                    "handlingFee": 0,
+                    "saleTaxCode": "89998",
+                    "itemCondition": {
+                        "typ": "NEW",
+                        "conditionDisplayName": "New"
+                    },
+                    "flags": {
+                        "goodHouseKeepingApprd": false,
+                        "webExclusive": false,
+                        "californiaEmissions": false,
+                        "hazardousMaterial": false,
+                        "giftMessageElg": false
+                    },
+                    "itemClassTier": {
+                        "tierName": "GOLD",
+                        "score": 2.15
+                    },
+                    "transDtm": 1516275334000,
+                    "site": [
+                        {
+                            "taxo": {
+                                "hier": [
+                                    {
+                                        "id": "17631810",
+                                        "primary": true
+                                    }
+                                ]
+                            },
+                            "id": "1"
+                        },
+                        {
+                            "taxo": {
+                                "hier": [
+                                    {
+                                        "id": "17615510",
+                                        "primary": true
+                                    }
+                                ]
+                            },
+                            "id": "2"
+                        }
+                    ],
+                    "searsStoreHierarchyIds": [
+                        7091101
+                    ],
+                    "kmartStoreHierarchyIds": [
+                        3869901
+                    ],
+                    "productId": "SPM8702602326",
+                    "winningContentId": 1520822812,
+                    "winningContentOwnerId": 10164060
+                }
+            ]
+        }
+    ]
+}
